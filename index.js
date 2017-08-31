@@ -39,6 +39,7 @@ module.exports = {
     radix: 0,
     'no-unused-expressions': ['error', { allowTaggedTemplates: true }],
     'no-underscore-dangle': 0,
-    'global-require': 0
+    'global-require': 0,
+    'react/no-multi-comp': 0
   }
 }
