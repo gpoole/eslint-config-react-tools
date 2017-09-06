@@ -36,6 +36,7 @@ module.exports = {
     'no-shadow': 0,
     'no-param-reassign': 0,
     'jsx-a11y/href-no-hash': 0,
+    'jsx-a11y/no-noninteractive-element-interactions': 0,
     radix: 0,
     'no-unused-expressions': ['error', { allowTaggedTemplates: true }],
     'no-underscore-dangle': 0,
