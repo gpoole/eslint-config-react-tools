@@ -5,6 +5,7 @@ module.exports = {
     browser: true,
     node: true
   },
+  plugins ["class-property"],
   rules: {
     semi: ['error', 'never'],
     'react/prop-types': 0,
