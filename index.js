@@ -42,6 +42,7 @@ module.exports = {
     'no-unused-expressions': ['error', { allowTaggedTemplates: true }],
     'no-underscore-dangle': 0,
     'global-require': 0,
-    'react/no-multi-comp': 0
+    'react/no-multi-comp': 0,
+    'react/no-unescaped-entities': 0
   }
 }
