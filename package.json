@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-react-tools",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Eslint configuration for react-tools",
   "main": "index.js",
   "repository": "https://github.com/react-tools/eslint-config-react-tools.git",
