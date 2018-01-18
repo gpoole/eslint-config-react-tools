@@ -45,5 +45,6 @@ module.exports = {
     'react/no-multi-comp': 0,
     'react/no-unescaped-entities': 0,
     'no-cond-assign': 0,
+    "allowForLoopAfterthoughts": true,
   },
 }
