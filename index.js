@@ -5,7 +5,7 @@ module.exports = {
     browser: true,
     node: true
   },
-  plugins: ['import', 'jsx-a11y', 'react'],
+  plugins: ['babel', 'import', 'jsx-a11y', 'react'],
   rules: {
     semi: ['error', 'never'],
     'react/prop-types': 0,
