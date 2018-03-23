@@ -5,7 +5,7 @@ module.exports = {
     browser: true,
     node: true
   },
-  plugins: ['class-property'],
+  plugins: ['babel', 'import', 'jsx-a11y', 'react'],
   rules: {
     semi: ['error', 'never'],
     'react/prop-types': 0,
@@ -24,16 +24,6 @@ module.exports = {
     'no-console': 0,
     'no-alert': 0,
     'no-nested-ternary': 0,
-    'comma-dangle': [
-      'error',
-      {
-        arrays: 'always-multiline',
-        objects: 'always-multiline',
-        imports: 'always-multiline',
-        exports: 'always-multiline',
-        functions: 'always-multiline'
-      }
-    ],
     'no-shadow': 0,
     'no-param-reassign': 0,
     'jsx-a11y/href-no-hash': 0,
