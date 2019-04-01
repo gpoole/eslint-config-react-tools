@@ -54,9 +54,6 @@ module.exports = {
         allowForLoopAfterthoughts: true
       }
     ],
-    "space-before-function-paren": 0,
-    "import/prefer-default-export": 0,
-    "import/no-unresolved": 0,
-    "import/extensions": 0
+    "space-before-function-paren": 0
   }
 };
